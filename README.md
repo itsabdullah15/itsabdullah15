@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Pyton and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Python,SQL,ML**
 
-- 💬 Ask me about **Python , ML , OpenCV**
+- 💬 Ask me about **Python, SQL, ML**
 
 - 📫 How to reach me **itsabdullah.cg@gmail.com**
 
