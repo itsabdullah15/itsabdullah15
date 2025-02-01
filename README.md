@@ -1,50 +1,48 @@
-## Hi there! 👋 I'm Abdullah Shahid  
-### Data Analyst | ML Enthusiast | Backend Developer
+### Hi there, I'm Abdullah! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabdullah15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+🚀 **Software Engineer | Python Automation & Data Engineering Enthusiast**
 
-💡 Passionate about data-driven solutions, backend development, and automation.
-
-🔭 **Currently working on:** Data Analysis, Backend Development (Django), and Automation.
-
-🌱 **Currently learning:** Advanced Data Engineering, Backend Scaling, and ML.
-
-🤝 **Looking to collaborate on:** Data Analysis, Data Engineering, and Django-based backend projects.
-
-💬 **Ask me about:** Python, Data Analysis, Backend Development, Web Scraping, and Databases.
-
-📫 **Reach me at:** itsabdullah.cg@gmail.com
-
-📄 **My Resume:** [View Here](https://docs.google.com/document/d/1Gcbx_bNvJIbxP6ya1FrCv9vUugQFBY7oC9BGtE9rcY0/edit?usp=sharing)
+I specialize in **Python automation, web scraping, data engineering, and cloud technologies**. Passionate about **building scalable solutions** and automating workflows to boost efficiency! 
 
 ---
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://twitter.com/abdullah1shahid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah1shahid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullah1shahid/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdullahshahid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+
+### 💻 Tech Stack & Tools:
+
+#### 🔹 **Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### 🔹 **Automation & Web Scraping**
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-181717?style=for-the-badge&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-88AA44?style=for-the-badge&logo=scrapy&logoColor=white)
+
+#### 🔹 **Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+
+#### 🔹 **DevOps & Others**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### 🛠️ Languages & Tools:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
 
----
 ### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsabdullah15&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsabdullah15&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsabdullah15" alt="GitHub Streak" /></p>
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+
+🚀 Let's collaborate and build amazing things together! 💡
