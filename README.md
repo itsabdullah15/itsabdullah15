@@ -23,7 +23,6 @@ I mostly works on Python automation, Django development, ETL pipelines, web scra
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-88AA44?style=for-the-badge&logo=scrapy&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-181717?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/-Requests-FF6F00?style=for-the-badge&logo=requests&logoColor=white)
 ![Robocorp](https://img.shields.io/badge/-Robocorp-0080A4?style=for-the-badge&logo=robocorp&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,9 +44,7 @@ I mostly works on Python automation, Django development, ETL pipelines, web scra
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/-KaliLinux-557C88?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-0098A6?style=for-the-badge&logo=ollama&logoColor=white)
-![Llama](https://img.shields.io/badge/-Llama-0D5C6B?style=for-the-badge&logo=llama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-8E8D8E?style=for-the-badge&logo=openai&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-9C2B7D?style=for-the-badge&logo=ai&logoColor=white)
 
