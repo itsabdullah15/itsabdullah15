@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdullah! 👋
 
-🚀 **Software Engineer | Python Automation & Data Engineering Enthusiast**
+🚀 **Software Engineer | Automation | BackEnd | GenAI**
 
 I mostly works on Python automation, Django development, ETL pipelines, web scraping, data engineering, cloud technologies, and Generative AI. Passionate about building scalable solutions, automating workflows, and leveraging AI to enhance efficiency!
 
