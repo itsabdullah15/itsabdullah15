@@ -1,42 +1,44 @@
 # Hi there, I'm Abdullah! 👋
 
-**Software Engineer | Backend Developer | Python Automation | GenAI**
-
+**Software Engineer | Backend Developer | Python Automation | GenAI**  
 I build scalable backend systems, automate workflows, and create AI-powered solutions. Passionate about clean code and innovative technology!
+
+---
+
+🧰 **Tech Toolbox**  
+👨‍💻 **Languages**  
+Python • JavaScript • Java  
+⚙️ **Frameworks & Libraries**  
+React.js • Node.js (Express) • FastAPI • Spring Boot  
+🤖 **GenAI & LLM Ecosystem**  
+LangChain • LangGraph • LlamaIndex • ChromaDB  
+RAG Systems • LLM Agents • Prompt Engineering  
+🛠 **Tools & Technologies**  
+MongoDB • MySQL • HTML5 • CSS3 / Tailwind  
+Git & GitHub • Postman • BeautifulSoup • Selenium  
+
+🌱 **Current Learning Goals**  
+🔒 Mastering advanced Backend techniques & performance optimization  
+🧰 Deepening my understanding of scalable software architecture
 
 ---
 
 ## 🚀 What I Do
 
-- **Backend Development** - Django, Flask, FastAPI, REST APIs
-- **Python Automation** - Web scraping, data processing, workflow automation
-- **Data Engineering** - ETL pipelines, data warehousing, analytics
-- **Generative AI** - LLM integration, chatbots, AI-powered applications
+- **Backend Development** - Django, Flask, FastAPI, REST APIs  
+- **Python Automation** - Web scraping, data processing, workflow automation  
+- **Data Engineering** - ETL pipelines, data warehousing, analytics  
+- **Generative AI** - LLM integration, chatbots, AI-powered applications  
 - **Cloud & DevOps** - AWS, Docker, CI/CD pipelines
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-```
-Python • JavaScript • SQL • Django • Flask • FastAPI
-```
+**Languages & Frameworks**  
 
-**Data & AI**
-```
-Pandas • NumPy • Scikit-learn • OpenAI • LangChain • TensorFlow
-```
 
-**Automation & Scraping**
-```
-Selenium • Playwright • Scrapy • BeautifulSoup • Robocorp
-```
 
-**Cloud & Tools**
-```
-AWS • Docker • PostgreSQL • MongoDB • Git • Linux
-```
 
 ---
 
@@ -51,16 +53,14 @@ AWS • Docker • PostgreSQL • MongoDB • Git • Linux
 
 ## 🎯 Currently
 
-- 🔭 Working on AI-powered automation tools
-- 🌱 Learning advanced MLOps and cloud architecture
-- 👯 Open to collaborating on Python and AI projects
+- 👯 Open to collaborating on Python and GenAI projects  
 - 💬 Ask me about Django, automation, or GenAI
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah1shahid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah1shahid/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abdullah1shhahid)
 
 ---
