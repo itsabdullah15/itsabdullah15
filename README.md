@@ -38,18 +38,13 @@ Selenium • Playwright • Scrapy • BeautifulSoup • Robocorp
 AWS • Docker • PostgreSQL • MongoDB • Git • Linux
 ```
 
-**Data Visualization**
-```
-Matplotlib • Plotly • Seaborn • Dash
-```
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah1shahid&show_icons=true&theme=dark&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah1shahid&layout=compact&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsabdulla15&show_icons=true&theme=dark&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabdullah15&layout=compact&theme=dark" height="165">
 </div>
 
 ---
