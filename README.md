@@ -8,7 +8,7 @@ I build scalable backend systems, automate workflows, and create AI-powered solu
 ## 🚀 What I Do
 
 - **Backend Development** – Django, Flask, FastAPI, REST APIs  
-- **Python Automation** – Web scraping, data processing, workflow automation  
+- **Python Automation** – Workflow automation, Business Automation
 - **Generative AI** – LLM integration, chatbots, AI-powered applications  
 - **Cloud & DevOps** – AWS, Docker, CI/CD pipelines  
 
