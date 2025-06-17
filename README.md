@@ -43,7 +43,7 @@ AWS • Docker • PostgreSQL • MongoDB • Git • Linux
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsabdulla15&show_icons=true&theme=dark&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsabdullah15&show_icons=true&theme=dark&count_private=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabdullah15&layout=compact&theme=dark" height="165">
 </div>
 
