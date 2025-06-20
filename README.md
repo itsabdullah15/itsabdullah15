@@ -23,7 +23,7 @@ Python • JavaScript
 Django • Flask • FastAPI
 
 **Frontend:**  
-HTML5 • CSS3 • Tailwind • HTMX
+HTML5 • CSS3 • Bootstrap • HTMX
 
 **Database:**  
 MongoDB • MySQL • PostgreSQL
@@ -31,8 +31,8 @@ MongoDB • MySQL • PostgreSQL
 **DevOps & Cloud:**  
 Docker • AWS (EC2, S3, Lambda) • GitHub Actions
 
-**Testing & Tools:**  
-Postman • Pytest • Git • GitHub • Selenium • BeautifulSoup
+**Testing, Automation & Tools:**  
+Postman • Pytest • Git • GitHub • Selenium • BeautifulSoup • Playwright
 
 **AI & GenAI:**  
 LangChain • LangGraph • Pinecone  
